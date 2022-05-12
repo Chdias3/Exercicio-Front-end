@@ -1,0 +1,263 @@
+
+@media screen and (max-width: 1200px) {
+
+  header {
+    width: 977px;
+  }
+
+  body {
+    height: 1669px;
+  }
+
+  p.email {
+    font-size: 11px;
+    left: 754px;
+  }
+
+  .divOpacidade {
+    width: 869px;
+  }
+
+  p.subtitleDisc2 {
+    width: 795.25px;
+  }
+
+  hr {
+    width: 853px;
+  }
+
+  hr.divider1 {
+    width: 869px;
+  }
+
+  .boxText {
+    width: 178px;
+    height: 317px;
+  }
+
+
+
+  p.welcome {
+    left: 845px;
+  }
+
+  .boxProfile {
+    left: 95.05%;
+  }
+
+
+  .inp {
+    width: 869px;
+  }
+
+
+
+  .profile {
+    margin-left: -3px;
+    width: 32px;
+    left: 2%;
+    margin-left: -10px;
+  }
+
+  .notification {
+    left: 10%;
+  }
+
+  .boxNorification {
+    left: 95.8%;
+  }
+
+  .text2 {
+    right: 2px;
+  }
+
+  textarea {
+    width: 869px;
+  }
+
+  p.subjectA {
+    width: 862px;
+  }
+
+  #boxSummary {
+    width: 904px;
+    top: 487px;
+  }
+
+  p.subject5 {
+    width: 799.25px;
+  }
+
+  .subject4 {
+    width: 869px;
+  }
+
+  p.subject10 {
+    width: 850.67px;
+  }
+
+  p.subject8 {
+    width: 833px;
+  }
+
+  p.subject3 {
+    width: 837.67px;
+  }
+
+  .dashboardHeader {
+    width: 904px;
+    margin-top: -9px;
+  }
+
+  section.boxDiscussion {
+    width: 904px;
+    margin-top: 793px;
+  }
+
+  .subjectBox1 {
+    width: 871px;
+  }
+
+  .subjectBox2 {
+    width: 871px;
+  }
+
+  .summary {
+    width: 893px;
+    font-size: 12px;
+  }
+
+  .boxVideo h2 {
+    width: 690px;
+  }
+
+  h2.textName {
+    top: 283px;
+  }
+
+  .textF {
+    width: 869px;
+  }
+
+  h2.city {
+    top: 318px;
+  }
+
+  .iconAuthor {
+    margin-left: 831.89px;
+  }
+
+  .author1 {
+    margin-left: 766.78px;
+  }
+
+  .icon {
+    top: 260px;
+  }
+
+  .flex {
+    width: 869px;
+  }
+
+  .flex2 {
+    width: 869px;
+  }
+
+  .flex3 {
+    width: 869px;
+  }
+
+  .flex4 {
+    width: 869px;
+  }
+
+  .language {
+    width: 63px;
+    left: 679px;
+    margin-left: 0px;
+  }
+
+  img.drop {
+    margin-left: 2.99rem;
+  }
+
+  .buttonDownload {
+    left: 965px;
+  }
+
+  .buttonSubmit {
+    width: 117.1px;
+    top: 273px;
+    left: -50.87px;
+  }
+
+  .button {
+    height: 19px;
+    margin-left: 0rem;
+  }
+
+  .buttonDoi {
+    left: 1140px;
+  }
+
+  .buttonStar {
+    left: 1091px;
+  }
+
+  p.abbreviation {
+    margin: -1.1rem 0rem 0rem -1rem;
+    font-size: 8px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .overley {
+    width: 674px;
+    height: 379px;
+  }
+
+  .work {
+    right: 186px;
+  }
+
+  .videoOverlay {
+    width: 675px;
+    height: 379px;
+    background-size: auto 378px;
+  }
+
+  aside {
+    width: 203px;
+    left: 965px;
+    height: 379px;
+  }
+
+  .boxDetail {
+    width: 201px;
+  }
+
+  section.boxDiscussion {
+    height: 627px;
+  }
+
+
+  button.send {
+    margin-left: 718.29px;
+  }
+
+
+
+  .footerM {
+    width: 932px;
+    background-size: auto 159px;
+  }
+
+  h2 {
+    width: 700px;
+    font-size: 19px;
+  }
+}
+
+
