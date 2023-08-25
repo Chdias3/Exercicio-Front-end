@@ -1,7 +1,7 @@
 # Projeto Frontend pelo figma :umbrella:
 Projeto promovido pela chuva :umbrella:
 
-https://chdias3.github.io/Projeto-Frontend-pelo-figma/
+https://chdias3.github.io/Exercicio-Front-end/
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
